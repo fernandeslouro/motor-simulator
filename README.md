@@ -8,4 +8,4 @@ There is a push button to start the motor in forward direction, a push button fo
 
 A fan is switched on automatically to cool the motor if the temperature exceeds a user-defined threshold. The fan is switched  off automatically if the temperature falls below a second level of temperature defined by a hysteresis value.
 
-A small demonstration of the GUI can be seen at http://joaolouro.xyz/video_operation.mp4 (with no sound).
+A small demonstration of the GUI can be seen at http://louro.xyz/video_operation.mp4.
